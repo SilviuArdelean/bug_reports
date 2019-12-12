@@ -1,0 +1,9 @@
+.vs/
+*gpb/
+packages/
+Build/
+Debug/
+Release/
+*Pre-Build/
+*.vscode/
+*.aps

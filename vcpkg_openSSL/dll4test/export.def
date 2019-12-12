@@ -1,0 +1,3 @@
+LIBRARY   dll4test
+EXPORTS
+HelloBing @1
