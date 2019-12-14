@@ -4,4 +4,4 @@ Small test solution reproducing the compilation errors that are appearing once t
   - *dll4test* - DLL using CURL with OpenSSL
   - *curl_tester* - command line application calling the HelloBing() exported function of dll4test.dll
 
-The problem is described here.
+The problem is described [here](https://silviuardelean.ro/2019/12/14/openssl-vs-vcpkg-some-strange-experiences/).
